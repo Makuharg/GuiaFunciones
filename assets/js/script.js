@@ -1,5 +1,5 @@
 
-function pintar(color = "green") {
+function pintar(color) {
     ele.style.backgroundColor = color;
 }
 const ele = document.getElementById("ele1");
